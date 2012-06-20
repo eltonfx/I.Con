@@ -1,0 +1,32 @@
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\ResolveAssemblyReference.cache
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.dll
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.pdb
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Client.dll
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Extensions.dll
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Photos.dll
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.dll
+G:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.pdb
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.dll
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.pdb
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Client.dll
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Extensions.dll
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Photos.dll
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\ResolveAssemblyReference.cache
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.dll
+C:\AMO\SandBox\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.pdb
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.pdb
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Client.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Extensions.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Photos.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.pdb
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\bin\PicasaWebIntegration.pdb
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Client.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Extensions.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\bin\Google.GData.Photos.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Resources\Picasa Integration\PicasaWebIntegration\PicasaWebIntegration\obj\Debug\PicasaWebIntegration.pdb

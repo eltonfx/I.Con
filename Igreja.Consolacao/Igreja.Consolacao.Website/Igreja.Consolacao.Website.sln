@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igreja.Consolacao.Website", "Igreja.Consolacao.Website\Igreja.Consolacao.Website.csproj", "{1D526EC5-AED4-454B-B3AE-949309D83D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igreja.Consolacao.Website.Tests", "Igreja.Consolacao.Website.Tests\Igreja.Consolacao.Website.Tests.csproj", "{A989E9FE-8EB5-411F-83BE-F741E4CF26E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D526EC5-AED4-454B-B3AE-949309D83D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D526EC5-AED4-454B-B3AE-949309D83D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D526EC5-AED4-454B-B3AE-949309D83D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D526EC5-AED4-454B-B3AE-949309D83D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A989E9FE-8EB5-411F-83BE-F741E4CF26E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A989E9FE-8EB5-411F-83BE-F741E4CF26E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A989E9FE-8EB5-411F-83BE-F741E4CF26E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A989E9FE-8EB5-411F-83BE-F741E4CF26E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

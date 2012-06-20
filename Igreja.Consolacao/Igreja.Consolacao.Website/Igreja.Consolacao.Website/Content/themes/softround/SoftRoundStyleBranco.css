@@ -1,0 +1,48 @@
+/* CORES */
+/*
+Azul = #0911D5
+Amarelo = #FFFFA5
+AmareloClaro = #FFFFCC
+Verde = #036930
+Vermelho = #D50909
+Rosa = #FF9999
+Roxo = #9938D1
+Preto = #080808
+Default = #899d08
+*/
+
+#templatemo_footer {
+    color: #000;
+	background: #fff url(images/templatemo_footerBranco.png) top center no-repeat;
+}
+#templatemo_service_bar {
+    color: #000;
+	background: url(images/templatemo_sp_boxAmareloClaro.png) no-repeat;
+}
+#templatemo_service_bar a{
+    color: #000;
+}
+#templatemo_footer a {
+	color: #000;
+}
+#templatemo_content_wrapper {
+	background: #FFFFD7;
+}
+#templatemo_banner_wrapper {
+	background: #fff;
+}
+#templatemo_banner {
+	background: #fff;
+}
+#templatemo_service_bar_wrapper {
+	background: #FFFFD7;
+}
+#templatemo_menu {
+	background: #FFFFD7;
+}
+#templatemo_menu ul li a:hover,  #templatemo_menu ul li .current {
+	background: url(images/templatemo_menu_hoverBranco.png) no-repeat top;
+}
+#templatemo_footer_wrapper {
+	background: #E8E8E8;
+}

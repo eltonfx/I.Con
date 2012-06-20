@@ -1,0 +1,69 @@
+﻿BODY, TD, DIV {
+	FONT-FAMILY: 		Verdana, Sans-Serif; 
+	FONT-SIZE: 			8pt; }
+
+A {
+	COLOR: Navy;
+	TEXT-DECORATION: 	underline; }
+
+A:hover {
+	COLOR: Blue;
+	TEXT-DECORATION: 	underline; }
+
+A:active {
+	COLOR: Blue;
+	TEXT-DECORATION: 	underline; }
+	
+H1 {
+	FONT-FAMILY: 		Verdana, Sans-Serif;
+	FONT-WEIGHT: 		Bold;
+	FONT-SIZE: 			medium; }
+
+H2 {
+	FONT-FAMILY: 		Verdana, Sans-Serif;
+	FONT-WEIGHT: 		Bold;
+	FONT-SIZE: 			small; }
+
+H3 {
+	FONT-FAMILY: 		Verdana, Sans-Serif; 
+	FONT-WEIGHT: 		Bold;
+	FONT-SIZE: 			x-small; }
+
+label {
+	FONT-SIZE: 			8pt; }	
+
+.WebSiteTitle 
+{
+	FONT-SIZE: 			14pt; 
+	color: Black}	
+
+.BulletinBoard
+{
+    FONT-WEIGHT: bold;
+    COLOR: Navy;
+    FONT-FAMILY: Verdana;
+}
+.BulletinBoard_Description
+{
+	font-size: 12pt;
+	font-weight: bold;
+	color: Navy;
+}
+.NavTree
+{
+	FONT-FAMILY: 		Verdana, Sans-Serif; 
+	FONT-SIZE: 			8pt;
+}
+.NavTreeRoot
+{
+	font-weight: bold
+}
+.twelvePoint
+{
+	font-size: 12pt;
+}
+.albumTitle
+{
+	font-size: 10pt;
+	font-weight: bold;
+}

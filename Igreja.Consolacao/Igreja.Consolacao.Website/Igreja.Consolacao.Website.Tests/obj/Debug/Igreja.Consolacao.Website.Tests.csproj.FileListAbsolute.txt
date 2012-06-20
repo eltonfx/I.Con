@@ -1,0 +1,40 @@
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll.config
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.pdb
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.dll
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.pdb
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.dll
+D:\Desenvolvimento\WebSites\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll.config
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.pdb
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Documents and Settings\82792465\Meus documentos\Prodesp\Arquivos Diversos\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll.config
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.pdb
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Users\E&R\Downloads\eltonfx-I.Con-adbcbce\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll.config
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.dll
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.pdb
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Users\E&R\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll.config
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.Tests.pdb
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.dll
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\bin\Debug\Igreja.Consolacao.Website.pdb
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.dll
+C:\Documents and Settings\82792465\I.Con\Igreja.Consolacao\Igreja.Consolacao.Website\Igreja.Consolacao.Website.Tests\obj\Debug\Igreja.Consolacao.Website.Tests.pdb
